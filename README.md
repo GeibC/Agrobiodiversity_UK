@@ -34,7 +34,7 @@ Please cite the original datasets if you reuse this work.
 | Dataset | File | Citation |
 |---|---|---|
 | Copernicus HRL Small Woody Features 2018 (raster, 5 m) | `HRL_Small_Woody_Features_2018_005m.tif` | European Union, Copernicus Land Monitoring Service 2018, European Environment Agency (EEA). https://doi.org/10.2909/a8e683b1-2f96-45c8-827f-580a79413018 |
-**Land use management map:** Sandström, Evelina; Namasivayam, Anandi; Oostdijk, Saskia; Scherpenhuijzen, Niek; Debonne, Niels; Verburg, Peter, 2023, *Land system map for Europe*, https://doi.org/10.34894/THARMK
+| Land system map for Europe | 'eu_lum_map_v6_02_05_2025_clip.tif' | Sandström, Evelina; Namasivayam, Anandi; Oostdijk, Saskia; Scherpenhuijzen, Niek; Debonne, Niels; Verburg, Peter, 2023, https://doi.org/10.34894/THARMK | 
 | Country boundary (United Kingdom) | `gb.shp` | simplemaps, https://simplemaps.com
 | Coastlines and borders (map background) | via Cartopy | Natural Earth, https://www.naturalearthdata.com (public domain) |
 
