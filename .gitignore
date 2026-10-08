@@ -2,9 +2,10 @@
 # so ignore everything and only allow the files that belong in the repository.
 *
 !.gitignore
+!.gitattributes
 !README.md
 !LICENSE
 !environment.yml
-!Agrobiodiversity_GB.ipynb
+!Agrobiodiversity_UK.ipynb
 !figures/
 !figures/*.png
