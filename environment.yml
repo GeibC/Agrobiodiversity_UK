@@ -1,0 +1,11 @@
+name: agrobiodiversity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - geopandas
+  - rasterio
+  - cartopy
+  - matplotlib
+  - jupyterlab

@@ -1,0 +1,10 @@
+# This folder also holds large rasters, third-party papers and scratch notebooks,
+# so ignore everything and only allow the files that belong in the repository.
+*
+!.gitignore
+!README.md
+!LICENSE
+!environment.yml
+!Agrobiodiversity_GB.ipynb
+!figures/
+!figures/*.png
